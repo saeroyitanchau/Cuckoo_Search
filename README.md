@@ -6,3 +6,5 @@ Bài toán này được lấy cảm hứng từ cách mà chim tu hú (Cuckoo),
 <br>
 <br>
 Thuật toán được phát triển Xin-She Yang và Adam Slowik
+
+---
