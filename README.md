@@ -9,7 +9,7 @@ Thuật toán được phát triển Xin-She Yang và Adam Slowik
 
 ---
 
-## Introduction about code 
+# Introduction about code 
 
 This project provides a conceptual and educational implementation of the Cuckoo Search (CS) algorithm, using a simplified portfolio optimization problem as an illustrative example.
 
@@ -25,7 +25,7 @@ Elite solution preservation
 
 Rather than focusing on real-world financial performance, this implementation emphasizes algorithmic clarity, interpretability, and learning value.
 
-## Scope and Intent
+# Scope and Intent
 
 The portfolio optimization problem used in this project serves only as a convenient continuous optimization benchmark.
 It allows the algorithm’s behavior to be observed in a constrained, multi-dimensional search space with a clear objective function (maximizing the Sharpe ratio).
@@ -40,7 +40,7 @@ A validated quantitative finance model
 
 All market data, assumptions, and parameters are simplified and hypothetical.
 
-## Educational Value
+# Educational Value
 
 This project is designed for:
 
@@ -54,7 +54,7 @@ Demonstrations in academic reports, blogs, or presentations
 
 The code prioritizes readability and conceptual correctness over aggressive performance optimization or parameter tuning.
 
-## Limitations
+# Limitations
 
 The financial model is intentionally simplified
 
@@ -64,7 +64,7 @@ Results should not be interpreted as actionable investment decisions
 
 Users interested in real-world applications should treat this implementation as a starting point for further research, not a finished solution.
 
-## Summary
+# Summary
 
 In short, this repository exists to answer one question clearly:
 
