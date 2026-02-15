@@ -9,7 +9,7 @@ Thuật toán được phát triển Xin-She Yang và Adam Slowik
 
 ---
 
-Introduction
+# Introduction about code 
 
 This project provides a conceptual and educational implementation of the Cuckoo Search (CS) algorithm, using a simplified portfolio optimization problem as an illustrative example.
 
